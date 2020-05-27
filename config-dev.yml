@@ -1,2 +1,2 @@
 config:
-  info: "hello spring cloud config"
+  info: "hello spring cloud config,version=1.0.0"
