@@ -1,2 +1,2 @@
-config
-  info("hello spring cloud config")
+config:
+  info: "hello spring cloud config"
